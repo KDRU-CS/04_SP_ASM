@@ -13,3 +13,5 @@
   - https://www.nasm.us/doc/
   - https://asmtutor.com/
   - https://www.tutorialspoint.com/assembly_programming/index.htm
+  > system calls
+  - https://x64.syscall.sh/
